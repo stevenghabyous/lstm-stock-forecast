@@ -1,5 +1,7 @@
 # LSTM Stock Price Forecasting, Tested Against a Naive Baseline
 
+**Timeline:** 2025, revised November 2026 (added a naive baseline, fixed scaler leakage)
+
 A two-layer LSTM that predicts Tesla's next-day closing price from the previous 60 days, evaluated against the forecast that tomorrow's price equals today's.
 
 ## Why this project is framed around a baseline
