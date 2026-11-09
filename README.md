@@ -2,6 +2,8 @@
 
 **Timeline:** 2025
 
+Part of my [portfolio](https://stevenghabyous.github.io/#lstm).
+
 A two-layer LSTM that predicts Tesla's next-day closing price from the previous 60 days, evaluated against the forecast that tomorrow's price equals today's.
 
 ## Why this project is framed around a baseline
@@ -38,3 +40,7 @@ Open `lstm_stock_forecast.ipynb` in Google Colab (TensorFlow and yfinance are pr
 ## Tools
 
 Python, TensorFlow/Keras, scikit-learn, pandas, NumPy, yfinance, Matplotlib
+
+---
+
+**Steven Ghabyous** | [Portfolio](https://stevenghabyous.github.io) | [GitHub](https://github.com/stevenghabyous) | [LinkedIn](https://linkedin.com/in/steven-ghabyous) | [Email](mailto:steven.ghabyous2005@gmail.com)
